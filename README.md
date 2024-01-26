@@ -11,8 +11,8 @@ The study aims to address the following questions:
 1. What impact do standing waves in Mean Sea Level Pressure (MSLP), such as the Weddell Sea Low and the Amundsen Sea Low, have on the expansion and contraction of subpolar gyres?
 1. How does the variability in gyre intensity and spatial structure affect the extent of CDW transformation and the volume of CDW transformed?
 1. How does sea ice respond to subpolar gyre variability, and how does this response affect surface buoyancy fluxes and CDW transformation rates?
-1. How do the winds respond to the IPO and SAM? 
-       1. Do we observe enhanced mixing rates of CDW during periods of strengthened wind?
-       1. Does the enhanced surface stratification during periods of positive SAM inhibit CDW mixing and transformation?
+1. How do the winds respond to the IPO and SAM?
+   1. Do we observe enhanced mixing rates of CDW during periods of strengthened wind?
+   2. Does the enhanced surface stratification during periods of positive SAM inhibit CDW mixing and transformation?
 
 
